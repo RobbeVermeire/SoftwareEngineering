@@ -2,6 +2,7 @@ function1(){
 //code
 HEYO
 2DE HEYO
+3DE HEYO
 }
 function2(){
 //code
