@@ -6,4 +6,5 @@ HEYO
 function2(){
 //code
 456
+dit gaat geen conflict maken
 }
