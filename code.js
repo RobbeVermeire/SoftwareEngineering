@@ -8,3 +8,6 @@ function2(){
 456
 dit gaat geen conflict maken
 }
+function3(){
+super complexe code
+}
